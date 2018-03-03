@@ -1,8 +1,5 @@
 Hello World
 
 This is going to be my second commit.
-<<<<<<< HEAD
 Hello from new-2.
-=======
 This is new-1.
->>>>>>> new-1
